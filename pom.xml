@@ -21,7 +21,7 @@
 	<properties>
 		<java.version>11</java.version>
 		<aws.sqs.messaging>1.0.4</aws.sqs.messaging>
-		<aws.sdk.version>1.11.236</aws.sdk.version>
+		<aws.sdk.version>1.12.296</aws.sdk.version>
 	</properties>
 
 	<dependencies>
